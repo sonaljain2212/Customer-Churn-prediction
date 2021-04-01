@@ -26,4 +26,9 @@ I am also going to check with adaboost classifier. Boosting algorithms combine m
 
 ![CM_Adaboost](https://user-images.githubusercontent.com/51110015/113242776-c5aec800-927f-11eb-92cd-60933c9edf91.PNG)
 
-To handle the imbalance I further used oversampling techinque such as SMOTE to synthetically create minority class samples and got much better reslts for Random For
+To handle the imbalance, I further used oversampling techinque such as SMOTE to synthetically create minority class samples and got much better reslts for Random Forest classifier then normal classification without oversampling.
+
+![CM_Smote_RF](https://user-images.githubusercontent.com/51110015/113242940-06a6dc80-9280-11eb-99c0-e186108e91bf.PNG)
+
+
+
