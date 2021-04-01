@@ -8,4 +8,4 @@ Churn analysis is the evaluation of a company’s customer loss rate in order to
 In this project, I aim to predict retention rate for a job board dataset. The proportion of custormer churned and retained is 26.9 to 73.1 %. The shape of the dataset is (37757, 15).
 
 
-![alt text] (https://github.com/sonaljain2212/Customer-Churn-prediction/blob/main/images/imbalance.PNG)
+![alt text] (https://github.com/[sonaljain2212]/[Customer-Churn-prediction]/blob/[main]/imbalance.PNG?raw=true)
